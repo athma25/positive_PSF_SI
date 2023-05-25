@@ -10,6 +10,8 @@
 * *fig2b.m*: MATLAB script to produce figure 2b
 * *fig3a.m*: MATLAB script to produce figure 3a
 * *fig3b.m*: MATLAB script to produce figure 3b
+* *myTxtFmt.m* : MATLAB script to change font size and interpreter
+* *printPdf.m*: MATLAB script to print plot as PDF
 
 ## Instructions to find numerical solutions
 1. Create *output* directory
